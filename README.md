@@ -1,4 +1,4 @@
-# EAGLE library dl9sec_public.lbr
+# DL9SEC public EAGLE library
 An EAGLE library (created with EAGLE 6.6.0) with some popular parts.
 
 # Contents
@@ -27,7 +27,7 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts.
 * WaveShare 0.96" OLED yellow/blue module
 * Sparkfun Pro Micro module
 * ESP8266 D1 mini module
-*AZ-Delivery ESP-32 DevKitC module
+* AZ-Delivery ESP-32 DevKitC module
 
 
   
