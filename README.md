@@ -1,5 +1,5 @@
 # DL9SEC public EAGLE library
-An EAGLE library (created with EAGLE 6.6.0) with some popular parts.
+An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed under CC BY-SA 4.0.
 
 # Contents
 
