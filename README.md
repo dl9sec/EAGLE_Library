@@ -3,17 +3,17 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed und
 
 # Contents
 
-* Intrapage connector symbols for terminating named signals(IN, OUT, IO)
+* Intrapage connector symbols for terminating named signals (IN, OUT, IO)
 * "Not connected" symbol for terminating unconnected pins
 * Description bubble (e.g. for short description, voltage, ...)
 * Voltage supply symbols (+3V3, -5V, +5V, +12V, +24V, +U, +UB, GND, AGND, DGND, XGND)
 * Bipolar transistor universal NPN & PNP (SOT23, TO92)
-* Fieldeffect transistor universal N-/P-channel (SOT23, TO92)
+* Fieldeffect transistor universal MOS N-/P-channel (SOT23, TO92)
 * Capacitors (0402, 0603, 0805, 1206, 2220)
 * Resistors (0402, 0603, 0805, 1206, 0204/7, 0207/10)
 * Jumpers (SMD/THT 1x2 & 1x3)
 * LEDs 3mm green, red, yellow (THT)
-* Testpins/testpads in different sizes (SMD/THT)
+* Testpins/Testpads in different sizes (SMD/THT)
 * Mini-USB connector B5 (SMD)
 * KYCON stereo headphone jack 3.5mm ST-3500-4N (SMD)
 * FT232BL (LQFP32)
