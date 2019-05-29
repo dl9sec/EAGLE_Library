@@ -12,6 +12,7 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed und
 * LL4148 general purpose diode (SMD Minimelf)
 * Capacitors (0402, 0603, 0805, 1206, 2220)
 * Resistors (0402, 0603, 0805, 1206, 0204/7, 0207/10)
+* Quarz (HC49U, HC49UP)
 * Jumpers (SMD/THT 1x2 & 1x3)
 * LEDs 3mm green, red, yellow (THT)
 * Testpins/Testpads in different sizes (SMD/THT)
@@ -21,6 +22,8 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed und
 * Mini-USB connector B5 (SMD)
 * KYCON stereo headphone jack 3.5mm ST-3500-4N (SMD)
 * FT232BL (LQFP32)
+* FT232RL (SSOP28)
+* FT245BL (LQFP32)
 * Boost converter module 1..5V -> 5V
 * TP4056 LiPo charger module 1A without UVP
 * TP4056 LiPo charger module 1A with UVP
