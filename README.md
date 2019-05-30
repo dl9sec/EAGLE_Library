@@ -14,6 +14,7 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed und
 * Resistors (0402, 0603, 0805, 1206, 0204/7, 0207/10)
 * Quarz (HC49U, HC49UP)
 * Jumpers (SMD/THT 1x2 & 1x3)
+* Capacitive touch button
 * LEDs 3mm green, red, yellow (THT)
 * Testpins/Testpads in different sizes (SMD/THT)
 * SPST pushbutton (THT)
