@@ -25,6 +25,7 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed und
 * FT232BL (LQFP32)
 * FT232RL (SSOP28)
 * FT245BL (LQFP32)
+* LM2937IMP-3.3 (SOT223)
 * Boost converter module 1..5V -> 5V
 * TP4056 LiPo charger module 1A without UVP
 * TP4056 LiPo charger module 1A with UVP
@@ -34,5 +35,6 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed und
 * RFID-RC522 module
 * WaveShare 0.96" OLED yellow/blue module
 * Sparkfun Pro Micro module
+* ESP-12E/F module
 * ESP8266 D1 mini module
 * AZ-Delivery ESP-32 DevKitC module
