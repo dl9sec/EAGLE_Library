@@ -26,6 +26,7 @@ An EAGLE library (created with EAGLE 6.6.0) with some popular parts licensed und
 * FT232RL (SSOP28)
 * FT245BL (LQFP32)
 * LM2937IMP-3.3 (SOT223)
+* LD1117S (SOT223)
 * Boost converter module 1..5V -> 5V
 * TP4056 LiPo charger module 1A without UVP
 * TP4056 LiPo charger module 1A with UVP
